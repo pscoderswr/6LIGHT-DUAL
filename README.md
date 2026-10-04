@@ -18,9 +18,6 @@ The application detects supported controllers connected via USB. After selecting
 ### DualShock Session
 ![6LIGHT DUAL DualShock Session](dualshock-session.png)
 
-### Process Result
-![6LIGHT DUAL Process Result](non-completed-result.png)
-
 ## ✨ How It Works
 
 Using **6LIGHT DUAL** is simple:
