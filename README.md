@@ -4,6 +4,23 @@
 
 The application detects supported controllers connected via USB. After selecting your controller, you can start the process of reducing the light count.
 
+## 📸 Screenshots
+
+### Access Console
+![6LIGHT DUAL Access Console](access-console.png)
+
+### Controller Selection
+![6LIGHT DUAL Controller List](controller-list.png)
+
+### DualSense Session
+![6LIGHT DUAL DualSense Session](dualsense-session.png)
+
+### DualShock Session
+![6LIGHT DUAL DualShock Session](dualshock-session.png)
+
+### Process Result
+![6LIGHT DUAL Process Result](non-completed-result.png)
+
 ## ✨ How It Works
 
 Using **6LIGHT DUAL** is simple:
